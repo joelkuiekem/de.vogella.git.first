@@ -4,6 +4,6 @@ public class Testgit
 {
 	public static void main(String[] args) {
 	    System.out.println("Git is fun");
-	    System.out.println("testing Stage");
+	    System.out.println("testing");
 	  }
 } 
